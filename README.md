@@ -21,8 +21,8 @@ WeatherApp is a Java-based desktop application that fetches and displays real-ti
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/WeatherApp.git
-   cd WeatherApp
+   git clone https://github.com/prashanty106k/Weather-app
+   cd Weather-app
    ```
 2. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
 3. Open the `WeatherApp.java` file and replace the `API_KEY` variable with your API key:
