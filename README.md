@@ -53,7 +53,7 @@ WeatherApp is a Java-based desktop application that fetches and displays real-ti
 This project is open-source and available under the MIT License.
 
 ## Author
-Developed by **[Your Name]**
+Developed by **Prashant Yadav**
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
