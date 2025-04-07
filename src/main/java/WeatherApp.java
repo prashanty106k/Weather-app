@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.TimeZone;
 
 public class WeatherApp {
-    private static final String API_KEY = "1fc556425df7f3fb8dc387c8134b4999";
+    private static final String API_KEY = "Your-Openweathermap-API-Key";
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q=";
     private static final String FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast?q=";
     static String cityName;
